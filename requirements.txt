@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+pydantic
+pydantic-settings
+pydantic[email]
+uvicorn
+aiosqlite
+greenlet
+python-ulid[pydantic]
+python-ulid
