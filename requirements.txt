@@ -8,3 +8,8 @@ aiosqlite
 greenlet
 python-ulid[pydantic]
 python-ulid
+passlib[bcrypt]
+mysqlclient
+alembic
+pymysql
+cryptography
